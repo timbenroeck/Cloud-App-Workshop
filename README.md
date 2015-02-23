@@ -1,6 +1,6 @@
 ﻿<a name="welcome" />
 # Cloud and Application development Workshop #
-TODO: Think of a description for the course 
+Learn how to leverage the power of the cloud to build mobile and gaming applications.  
 
 <a name="pre-requisites" />
 ## Pre-Requisites ##
@@ -17,9 +17,9 @@ _Note: This will not change your email hosting or affect your current account.  
 ## Agenda ##
 <a name="agenda-day1" />
 ### Day 1 - Introduction to application development and Microsoft Azure###
-- **[Presentation](slides/AppEntryPoints.pptx):** How to choose your app development environment
+- **[Presentation](https://github.com/timrnd/Cloud-App-Workshop/blob/master/Slides/AppEntryPoints.pptx):** How to choose your app development environment
 - **Demo:** Windows App Studio 
-- **[Presentation](slides/AzureIntroduction.pptx):** Introduction to Microsoft Azure and how to get started 
+- **[Presentation](https://github.com/timrnd/Cloud-App-Workshop/blob/master/Slides/AzureIntroduction.pptx):** Introduction to Microsoft Azure and how to get started 
 - **Demo:** The Microsoft Azure portal and creating your first Website and Virtual Machine 
 - **Lab:** 
 	- Build a Windows app using App Studio: [Video - how to use App Studio](http://channel9.msdn.com/Blogs/Windows-Phone/Windows-App-Studio-Beta-Walk-Through)
