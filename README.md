@@ -2,6 +2,11 @@
 # Cloud and Application development Workshop #
 Learn how to leverage the power of the cloud to build mobile and gaming applications.  
 
+<a name="contact info" />
+## Contact Information ##
+- Tim: tim.benroeck@microsoft.com
+- Phil: phaelion@microsoft.com
+
 <a name="pre-requisites" />
 ## Pre-Requisites ##
 - **A Microsoft account:** A Microsoft account is required to access Microsoft services such as OneDrive, Xbox Live, Hotmail, Azure, etc.  If you have an @hotmail.com or @outlook.com email address then you already have a Microsoft account.  However, you do not need to have a Microsoft email address to have a Microsoft account. 
@@ -17,9 +22,9 @@ _Note: This will not change your email hosting or affect your current account.  
 ## Agenda ##
 <a name="agenda-day1" />
 ### Day 1 - Introduction to application development and Microsoft Azure###
-- **[Presentation](https://github.com/timrnd/Cloud-App-Workshop/blob/master/Slides/AppEntryPoints.pptx):** How to choose your app development environment
+- **[Presentation](Slides/AppEntryPoints.pptx):** How to choose your app development environment
 - **Demo:** Windows App Studio 
-- **[Presentation](https://github.com/timrnd/Cloud-App-Workshop/blob/master/Slides/AzureIntroduction.pptx):** Introduction to Microsoft Azure and how to get started 
+- **[Presentation](Slides/AzureIntroduction.pptx):** Introduction to Microsoft Azure and how to get started 
 - **Demo:** The Microsoft Azure portal and creating your first Website and Virtual Machine 
 - **Lab:** 
 	- Build a Windows app using App Studio: [Video - how to use App Studio](http://channel9.msdn.com/Blogs/Windows-Phone/Windows-App-Studio-Beta-Walk-Through)
