@@ -1,4 +1,4 @@
-﻿<a name="welcome" />
+<a name="welcome" />
 # Cloud and Application development Workshop #
 Learn how to leverage the power of the cloud to build mobile and gaming applications.  
 
@@ -45,18 +45,24 @@ _Note: This will not change your email hosting or affect your current account.  
 		- [Building a platformer](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
 		- [Building flappy bird](http://www.codevinsky.com/phaser-2-0-tutorial-flappy-bird-part-1/)
 		- [View more tutorials](http://www.lessmilk.com/phaser-tutorial/)
-- **Challenge:** Create and upload your game to an Azure Website. [FTP your site to Azure]
-(http://blogs.msdn.com/b/tim/archive/2015/01/07/how-to-ftp-your-microsoft-azure-websites.aspx)
+- **Challenge:** Create and upload your game to an Azure Website. [FTP your site to Azure](http://blogs.msdn.com/b/tim/archive/2015/01/07/how-to-ftp-your-microsoft-azure-websites.aspx)
 
 <a name="agenda-day3" />
 ### Day 3 - Game Deployment and Source Control basics###
 - Deploy game to an Azure website with GitHub
-- Source control basics 
-- GitHub introduction 
-	- How to issue a pull request 
+- **[Presentation](Slides/GitAndGithub.pdf):** Source control basics with Git and GitHub
 - **Labs:**
 	- Check your game into source control 
-	- Deploy your game to an Azure website with GitHub 
+	- Deploy your game to an Azure website with GitHub
+	- [Git cheat sheet](github-git-cheat-sheet.pdf)
+
+<a name="agenda-day4" />
+### Day 4 - JavaScript Development###
+- JavaScript basics
+- Node.js basics
+- **Labs:**
+	- [nodeschool](http://nodeschool.io/#workshoppers)
+	- Make your own node app using some node modules
 
 
 
