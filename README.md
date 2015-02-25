@@ -51,10 +51,12 @@ _Note: This will not change your email hosting or affect your current account.  
 ### Day 3 - Game Deployment and Source Control basics###
 - Deploy game to an Azure website with GitHub
 - **[Presentation](Slides/GitAndGithub.pdf):** Source control basics with Git and GitHub
+	- [Git cheat sheet](github-git-cheat-sheet.pdf)
+	- [Create a repository with GitHub](https://help.github.com/articles/create-a-repo/)
 - **Labs:**
 	- Check your game into source control 
 	- Deploy your game to an Azure website with GitHub
-	- [Git cheat sheet](github-git-cheat-sheet.pdf)
+		- [Publish to Azure websites with Git and others](http://azure.microsoft.com/en-us/documentation/articles/web-sites-publish-source-control/)
 
 <a name="agenda-day4" />
 ### Day 4 - JavaScript Development###
