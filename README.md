@@ -1,4 +1,4 @@
-<a name="welcome" />
+﻿<a name="welcome" />
 # Cloud and Application development Workshop #
 Learn how to leverage the power of the cloud to build mobile and gaming applications.  
 
@@ -6,6 +6,10 @@ Learn how to leverage the power of the cloud to build mobile and gaming applicat
 ## Contact Information ##
 - Tim: tim.benroeck@microsoft.com
 - Phil: phaelion@microsoft.com
+
+<a name="share-pictures" />
+## Share your pictures ##
+Please upload any pictures you took during the workshop to the [MySkills4Africa - Luanda - Cloud-App-Workshop OneDrive](http://1drv.ms/18qsR9u)
 
 <a name="pre-requisites" />
 ## Pre-Requisites ##
@@ -16,7 +20,8 @@ _Note: This will not change your email hosting or affect your current account.  
 
 - **A Microsoft Azure subscription:** A Microsoft Azure subscription allows you to provision cloud resources.  As part of this training you will receive a Microsoft Azure Pass which is good for one month or $100 USD worth of cloud compute or storage. 
 	- [Instructions on activating your Microsoft Azure Pass](http://aka.ms/azurepassvid)
-	- [Activate your Microsoft Azure Pass. ](http://www.microsoftazurepass.com/) 
+	- [Instructions on activating your Microsoft Azure Pass. ](AzurePassInstructions.md)
+		- **Video:** [How to activate your Microsoft Azure Pass. ](http://www.microsoftazurepass.com/) 
 
 <a name="agenda" />
 ## Agenda ##
@@ -45,7 +50,8 @@ _Note: This will not change your email hosting or affect your current account.  
 		- [Building a platformer](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
 		- [Building flappy bird](http://www.codevinsky.com/phaser-2-0-tutorial-flappy-bird-part-1/)
 		- [View more tutorials](http://www.lessmilk.com/phaser-tutorial/)
-- **Challenge:** Create and upload your game to an Azure Website. [FTP your site to Azure](http://blogs.msdn.com/b/tim/archive/2015/01/07/how-to-ftp-your-microsoft-azure-websites.aspx)
+- **Challenge:** Create and upload your game to an Azure Website. 
+	- [Instructions on how to FTP to Azure](http://blogs.msdn.com/b/tim/archive/2015/01/07/how-to-ftp-your-microsoft-azure-websites.aspx)
 
 <a name="agenda-day3" />
 ### Day 3 - Game Deployment and Source Control basics###
@@ -62,12 +68,19 @@ _Note: This will not change your email hosting or affect your current account.  
 ### Day 4 - JavaScript Development###
 - **[Presentation](Slides/NodeJS.pptx):** Node.js basics
 - JavaScript basics
-- **Labs:**
-	- Make an address book app using a custom node module
-	- [nodeschool](http://nodeschool.io/#workshoppers)
+- **Lab:**
+	- Learn javascript with the following [node school](http://nodeschool.io/#workshoppers) labs:
 		- javascripting (basic javascript)
 		- learnyounode (node)
 		- functional-javascript-workshop  (advanced javascript)
+- **Challenge:** 
+	- [Fibonacci Challenge:](fibonacci-challenge.md) 
+		- Create a Fibonacci module with a function that returns the first 10 numbers in the Fibonacci number sequence 
+		- Create a second function in the Fibonacci module that will return a section of the sequence based on a starting index. 
+	- [Sudoku Solver:](sudoku-challenge.md) Create Sudoku solver node module to solve: ````
+'158 2  6 2   8  9  3  7 8 2 6 74      4 6 7      19 5 4 9 3  2  2  5   8 7  9 413'
+````
+
 
 <a name="agenda-day5" />
 ### Day 5 - APIs and Express###
