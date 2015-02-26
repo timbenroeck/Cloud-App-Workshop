@@ -1,0 +1,10 @@
+{
+  "name": "NodeConsole",
+  "version": "0.0.0",
+  "description": "NodeConsole",
+  "main": "app.js",
+  "author": {
+    "name": "phaelion",
+    "email": ""
+  }
+}

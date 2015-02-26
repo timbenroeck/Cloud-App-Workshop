@@ -60,12 +60,19 @@ _Note: This will not change your email hosting or affect your current account.  
 
 <a name="agenda-day4" />
 ### Day 4 - JavaScript Development###
+- **[Presentation](Slides/NodeJS.pptx):** Node.js basics
 - JavaScript basics
-- Node.js basics
 - **Labs:**
+	- Make an address book app using a custom node module
 	- [nodeschool](http://nodeschool.io/#workshoppers)
-	- Make your own node app using some node modules
+		- javascripting (basic javascript)
+		- learnyounode (node)
+		- functional-javascript-workshop  (advanced javascript)
 
+<a name="agenda-day5" />
+### Day 5 - APIs and Express###
+- What is an API and why does it matter?
+- Using express to make a webserver
 
 
 
