@@ -1,4 +1,4 @@
-﻿<a name="welcome" />
+<a name="welcome" />
 # Cloud and Application development Workshop #
 Learn how to leverage the power of the cloud to build mobile and gaming applications.  
 
@@ -77,18 +77,24 @@ _Note: This will not change your email hosting or affect your current account.  
 	- [Fibonacci Challenge:](fibonacci-challenge.md) 
 		- Create a Fibonacci module with a function that returns the first 10 numbers in the Fibonacci number sequence 
 		- Create a second function in the Fibonacci module that will return a section of the sequence based on a starting index. 
-	- [Sudoku Solver:](sudoku-challenge.md) Create Sudoku solver node module to solve: ````
-'158 2  6 2   8  9  3  7 8 2 6 74      4 6 7      19 5 4 9 3  2  2  5   8 7  9 413'
-````
+	- [Sudoku Solver:](sudoku-challenge.md) Create Sudoku solver node module to solve: 
+```'158 2  6 2   8  9  3  7 8 2 6 74      4 6 7      19 5 4 9 3  2  2  5   8 7  9 413'```
 
 
 <a name="agenda-day5" />
-### Day 5 - APIs and Express###
+### Day 5 - APIs and Azure Mobile Services###
 - What is an API and why does it matter?
-- Using express to make a webserver
+- Using Azure Mobile Services to quickly make a backend for web and mobile services
+	- [Tim's blog on Azure Mobile Services](http://blogs.msdn.com/b/tim/archive/2014/03/28/azure-mobile-services.aspx)
+- **Lab:**
+	- Set up an Azure Mobile Service
+		- [Tutorial: How to create an Azure Mobile Service (and hook it up to a Windows app)](http://azure.microsoft.com/en-us/documentation/articles/mobile-services-html-get-started-data/#create-service)
+- **Challenges:**
+	- [Hook a web client up to your Azure Mobile Service and send it data](http://azure.microsoft.com/en-us/documentation/articles/mobile-services-html-how-to-use-client-library/)
+	- [Add user authentication to your Azure Mobile Service](http://azure.microsoft.com/en-us/documentation/articles/mobile-services-html-get-started-users/)
+	- [Limit users so they can only see their own data](http://azure.microsoft.com/en-us/documentation/articles/mobile-services-javascript-backend-service-side-authorization/)
 
-
-
-
-
-
+<a name="agenda-day6" />
+### Day 6 - Web Front End###
+- Using JavaScript in the browser with JQuery
+- Using Twitter Bootstrap to make your app responsive
