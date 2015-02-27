@@ -36,7 +36,6 @@ var str = '158 2  6 2   8  9  3  7 8 2 6 74      4 6 7      19 5 4 9 3  2  2  5 
 
 ````
 
-
 will produce the following board and solution:
 
     +---------+---------+---------+    +---------+---------+---------+
@@ -60,19 +59,18 @@ var game = new Sudoku(str);
 game.solve();
 ````
 
-## Initial Solution
-
-Your initial Sudoku solver will not solve all puzzles. It should only fill in
-cells when the basic rules narrow the possibilities for that cell down to one
-number.
-
-Don't worry about complex boards or trying to make it solve every puzzle. You
-don't want your solver to be _smart_ just yet. If you're unsure if you're
-creating something that's too smart or not, just ask.
+## Puzzle Strings
+[puzzles-easy]: http://magictour.free.fr/msk_009
+[puzzles-hard-95]: http://magictour.free.fr/top95
+[puzzles-hard-100]: http://magictour.free.fr/top100
+[puzzles-hard-234]: http://magictour.free.fr/topn234
+[puzzles-hard-870]: http://magictour.free.fr/top870
+[puzzles-hard-1465]: http://magictour.free.fr/top1465
+[puzzles-hard-2365]: http://magictour.free.fr/top2365
 
 ## Mindset
 
-Over the course of this project, you'll probably experience huge swings in
+Over the course of this challenge, you'll probably experience huge swings in
 your emotional state and attitude toward the problem you're solving. It will be
 fun. It will be challenging. It will be rewarding. It will feel impossible.
 You'll get stuck. You'll feel angry. You'll question why you're working on such
@@ -87,3 +85,5 @@ Step away from the computer. Go for a walk. Get some sleep.
 Hard problems are best solved by teams. You and your teammates will provide
 different views and ideas, different ways of looking at the problem. Explore
 all ideas. Keep your teammates on track and thinking positively.
+
+**Don't cheat by looking online for examples of logic**
