@@ -96,5 +96,19 @@ _Note: This will not change your email hosting or affect your current account.  
 
 <a name="agenda-day6" />
 ### Day 6 - Web Front End###
-- Using JavaScript in the browser with JQuery
-- Using Twitter Bootstrap to make your app responsive
+- Using CSS to style your app
+	- Responsive design with [Twitter Bootstrap](http://getbootstrap.com/)
+- Using JavaScript in the browser with jQuery
+- **Lab:**
+	- Make a front end web application styled with Bootstrap
+- **Challenge:**
+	- Use jQuery to talk to a server via Ajax
+	- Hook up your front end to Azure Mobile Services
+
+<a name="agenda-day7" />
+### Day 7 - Client - Server Architecture###
+- Using Azure Mobile services
+	- Starter apps from Quick Start
+- Using Ajax in jQuery
+- **Lab:** 
+	- Hook up your front end app to Azure Mobile Services
