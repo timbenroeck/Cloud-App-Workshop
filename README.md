@@ -101,8 +101,13 @@ _Note: This will not change your email hosting or affect your current account.  
 - Using JavaScript in the browser with jQuery
 - **Lab:**
 	- Make a front end web application styled with Bootstrap
+		- [Bootstrap Getting Started](http://getbootstrap.com/getting-started/)
+		- [Bootstrap Tutorial](http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/)
+		- [Bootstrap Quick Guide](http://www.tutorialspoint.com/bootstrap/bootstrap_quick_guide.htm)
 - **Challenge:**
-	- Use jQuery to talk to a server via Ajax
+	- Use jQuery to add behavior to your page
+		- [Learn jQuery](http://learn.jquery.com/)
+		- [jQuery Tutorial](http://www.jquery-tutorial.net/)
 	- Hook up your front end to Azure Mobile Services
 
 <a name="agenda-day7" />
