@@ -112,8 +112,16 @@ _Note: This will not change your email hosting or affect your current account.  
 
 <a name="agenda-day7" />
 ### Day 7 - Client - Server Architecture###
+- **[Presentation](Slides/jQuery.pptx):** Adding website behavior with jQuery
 - Using Azure Mobile services
 	- Starter apps from Quick Start
-- Using Ajax in jQuery
 - **Lab:** 
+	- Add behavior to your website with jQuery
+		- [jQuery Tutorial](http://www.jquery-tutorial.net/)
+		- [Learn jQuery](http://learn.jquery.com/about-jquery/)
+		- [jQuery Homepage](http://jquery.com/)
 	- Hook up your front end app to Azure Mobile Services
+
+### Days 8 & 9 - HACKATHON!###
+
+### Day 10 - Hackathon Presentations###
