@@ -102,6 +102,7 @@ _Note: This will not change your email hosting or affect your current account.  
 - **Lab:**
 	- Make a front end web application styled with Bootstrap
 		- [Bootstrap Getting Started](http://getbootstrap.com/getting-started/)
+		- [Better Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
 		- [Bootstrap Tutorial](http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/)
 		- [Bootstrap Quick Guide](http://www.tutorialspoint.com/bootstrap/bootstrap_quick_guide.htm)
 - **Challenge:**
@@ -121,6 +122,7 @@ _Note: This will not change your email hosting or affect your current account.  
 		- [Learn jQuery](http://learn.jquery.com/about-jquery/)
 		- [jQuery Homepage](http://jquery.com/)
 	- Hook up your front end app to Azure Mobile Services
+		- [Azure Mobile Services Documentation](http://azure.microsoft.com/en-us/documentation/services/mobile-services/)
 
 ### Days 8 & 9 - HACKATHON!###
 
