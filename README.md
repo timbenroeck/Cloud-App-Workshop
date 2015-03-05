@@ -1,6 +1,10 @@
 <a name="welcome" />
 # Cloud and Application development Workshop #
-Learn how to leverage the power of the cloud to build mobile and gaming applications.  
+Learn how to leverage the power of the cloud to build mobile and gaming applications.
+
+<a name="presentation slots" />
+## Sign up to present your hackathon project ##
+[Fill out the survey](http://1drv.ms/1wY6Mo6) to sign up to present your hackathon project.
 
 <a name="contact info" />
 ## Contact Information ##
