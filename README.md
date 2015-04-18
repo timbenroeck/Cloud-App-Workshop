@@ -23,9 +23,9 @@ Please upload any pictures you took during the workshop to the [MySkills4Africa 
 _Note: This will not change your email hosting or affect your current account.  It will simply allow you to log into Microsoft services with an existing email address such as @gmail.com, @yahoo.com, or @yourdomain.com_
 
 - **A Microsoft Azure subscription:** A Microsoft Azure subscription allows you to provision cloud resources.  As part of this training you will receive a Microsoft Azure Pass which is good for one month or $100 USD worth of cloud compute or storage. 
-	- [Instructions on activating your Microsoft Azure Pass](http://aka.ms/azurepassvid)
+	- [Activate your Microsoft Azure Pass](http://www.microsoftazurepass.com/)
 	- [Instructions on activating your Microsoft Azure Pass. ](AzurePassInstructions.md)
-		- **Video:** [How to activate your Microsoft Azure Pass. ](http://www.microsoftazurepass.com/) 
+		- **Video:** [How to activate your Microsoft Azure Pass. (http://aka.ms/azurepassvid)
 
 <a name="agenda" />
 ## Agenda ##
