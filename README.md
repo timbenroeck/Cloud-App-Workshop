@@ -24,8 +24,8 @@ _Note: This will not change your email hosting or affect your current account.  
 
 - **A Microsoft Azure subscription:** A Microsoft Azure subscription allows you to provision cloud resources.  As part of this training you will receive a Microsoft Azure Pass which is good for one month or $100 USD worth of cloud compute or storage. 
 	- [Activate your Microsoft Azure Pass](http://www.microsoftazurepass.com/)
-	- [Instructions on activating your Microsoft Azure Pass. ](AzurePassInstructions.md)
-		- **Video:** [How to activate your Microsoft Azure Pass. (http://aka.ms/azurepassvid)
+	- [Instructions on activating your Microsoft Azure Pass](AzurePassInstructions.md)
+		- **Video:** [How to activate your Microsoft Azure Pass] (http://aka.ms/azurepassvid)
 
 <a name="agenda" />
 ## Agenda ##
